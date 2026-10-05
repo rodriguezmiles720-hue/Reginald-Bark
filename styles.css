@@ -1,0 +1,19 @@
+body{background-color: #255E19}
+
+h1{background-color: #61210A;
+	font-family: fantasy;
+	font-size: 45px;
+	text-align: center;
+	border-style: dotted;
+	border:5px dotted #FFFFFF;
+	padding: 30px ;
+}
+p{text-align: center;
+	font-family: fantasy;}
+
+img{border-style: dotted;
+	display: block;}
+
+ul{color: #61210A;
+	font-family: fantasy;
+	text-decoration-color: color(#61210A);}
